@@ -12,8 +12,8 @@
 //Cardinal Color Variables
 $cardinal-red: #CE3229;
 $dark-red: #000000; //Link Color
-$cardinal-light: #D84647; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
-$cardinal-bg: #E5736F; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
+$cardinal-light: #F8ECF0; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
+$cardinal-bg: #F2E3DD; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
 //Beige Color Variables
 $beige: #F2C597;
@@ -21,7 +21,7 @@ $beige-60: lighten($beige, 18.5%); //Main Border/HR Color
 $beige-25: lighten($beige, 25%); 
 
 //Sandstone Color Variables
-$sandstone: #DB585D;
+$sandstone: #EBC8BF;
 $sandstone-50: lighten($sandstone, 9%);
 $sandstone-25: lighten($sandstone, 20%); //Important Heading BG Color 
 
@@ -29,9 +29,9 @@ $sandstone-25: lighten($sandstone, 20%); //Important Heading BG Color
 $gray: #9B4C3F; //Main Text Color
 $gray-75: lighten($gray, 18.25%); //Lighter Text Color
 
-$gray-3: #D08182; //Block/Course BG Color
-$gray-2: #D2A0A4;
-$gray-1: #E8A9A1; //Main BG Color
+$gray-3: #984A46; //Block/Course BG Color
+$gray-2: #D6B9B1;
+$gray-1: #D5B5A4; //Main BG Color
 $white: $gray-1;
 
 $black: #000000;
