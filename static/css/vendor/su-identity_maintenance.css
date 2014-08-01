@@ -243,7 +243,7 @@ html, body {
 } 
 
 /* IE6/7 uses media, */
-@media, {
+@media {
   #global-footer {
     height: 219px;
   }
