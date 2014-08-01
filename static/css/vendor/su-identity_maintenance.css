@@ -243,7 +243,7 @@ html, body {
 } 
 
 /* IE6/7 uses media, */
-@media {
+@media, {
   #global-footer {
     height: 219px;
   }
@@ -252,7 +252,7 @@ html, body {
 /* IE8 uses \0/ */
 @media all {
   #global-footer {
-    height: 196px;
+    height: 196px\0/;
   }
 }
 
