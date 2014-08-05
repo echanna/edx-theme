@@ -1,19 +1,19 @@
 /****************************************************************************************************
-*   Stanford Theming File
+*   Seneca Theming File
 *
-*   Contains all the theme color definitions for the Stanford Open Source MOOC Project
+*   Contains all the theme color definitions for the Seneca Open Source MOOC Project
 *
 ****************************************************************************************************/
 
 //-----------------
-//  Color variables (from Stanford palette unless noted)
+//  Color variables (from Seneca palette unless noted)
 //-----------------
 
-//Cardinal Color Variables
-$cardinal-red: #CE3229;
+//seneca Color Variables
+$seneca-red: #CE3229;
 $dark-red: #862220; //Link Color
-$cardinal-light: #ea332a; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
-$cardinal-bg: #ffcdd5; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
+$seneca-light: #ea332a; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
+$seneca-bg: #ffcdd5; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
 //Beige Color Variables
 $beige: #cca0a7;
@@ -83,16 +83,16 @@ $very-light-text: $gray-1;
 
 $link-color: $dark-red;
 $link-color-d1: $dark-red;
-$link-hover: $cardinal-light;
-$site-status-color: $cardinal-bg;
+$link-hover: $seneca-light;
+$site-status-color: $seneca-bg;
 
 $header-graphic-super-color: $dark-red;
 $header-graphic-sub-color: $lighter-base-font-color;
 
 $header-link-color: $dark-red;
-$header-link-hover: $cardinal-light;
+$header-link-hover: $seneca-light;
 
-$button-color: $cardinal-red;
+$button-color: $seneca-red;
 $button-archive-color: $gray-3;
 
 $shadow-color: $gray;
@@ -103,7 +103,7 @@ $button-bg-color: $gray-3;
 $button-bg-hover-color: $gray-1;
 
 // actions - primary
-$action-primary-bg: $cardinal-red;
+$action-primary-bg: $seneca-red;
 $action-primary-fg: $gray-2;
 $action-primary-shadow: none;
 
@@ -190,7 +190,7 @@ $homepage-bg-image: url('../themes/seneca/images/bg.png');
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/seneca/images/seneca-video-thumb.png';
+$video-thumb-url: '../themes/seneca/images/edx-at-seneca-video-thumb.png';
 
 //-----------------
 //  Mixin Styles

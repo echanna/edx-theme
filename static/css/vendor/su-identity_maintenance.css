@@ -228,10 +228,10 @@ http://www.cssstickyfooter.com
 html, body {
 	height: 100%;
 }
-#su-wrap {
+#sen-wrap {
 	min-height: 100%;
 }
-#su-content {
+#sen-content {
 	overflow:visible;
 	padding-bottom: 120px; /* must be same height as the footer */
 }

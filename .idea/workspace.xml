@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/sass/_seneca.scss" afterPath="$PROJECT_DIR$/static/sass/_seneca.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maintenance/index.html" afterPath="$PROJECT_DIR$/maintenance/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity.css" afterPath="$PROJECT_DIR$/static/css/vendor/su-identity.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" afterPath="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-footer.html" afterPath="$PROJECT_DIR$/templates/theme-footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-head-extra.html" afterPath="$PROJECT_DIR$/templates/theme-head-extra.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-header.html" afterPath="$PROJECT_DIR$/templates/theme-header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edx-theme.iws" />
@@ -26,37 +32,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="theme-google-analytics.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
+      <file leaf-file-name="theme-head-extra.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/theme-head-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-              <folding />
+            <state line="3" column="72" selection-start="137" selection-end="137" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="555">
+              <folding>
+                <marker date="1407260358364" expanded="true" signature="444:667" placeholder="..." />
+                <marker date="1407260358364" expanded="true" signature="480:654" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme-footer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
+      <file leaf-file-name="theme-header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme-dashboard-research.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/theme-dashboard-research.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="password_reset_email.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="40" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="315">
+            <state line="11" column="20" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -65,7 +56,16 @@
       <file leaf-file-name="password_reset_confirm.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="15" selection-start="4867" selection-end="4867" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="2220">
+            <state line="131" column="10" selection-start="4878" selection-end="4879" vertical-scroll-proportion="-24.625" vertical-offset="1374" max-vertical-offset="2220">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme-google-analytics.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -74,7 +74,7 @@
       <file leaf-file-name="theme-info_research.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/courseware/theme-info_research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
@@ -83,16 +83,16 @@
       <file leaf-file-name="theme-course_about_research.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/courseware/theme-course_about_research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_seneca.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_seneca.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/sass/_seneca.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="67" selection-start="5361" selection-end="5361" vertical-scroll-proportion="-10.612245" vertical-offset="2360" max-vertical-offset="3195">
+            <state line="192" column="50" selection-start="5320" selection-end="5320" vertical-scroll-proportion="0.6111111" vertical-offset="2385" max-vertical-offset="3195">
               <folding />
             </state>
           </provider>
@@ -101,16 +101,25 @@
       <file leaf-file-name="_custom.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="su-identity_maintenance.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css">
+      <file leaf-file-name="theme-register-research.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/theme-register-research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="245" column="7" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.54598373" vertical-offset="3206" max-vertical-offset="4065">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="su-identity.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="33" selection-start="392" selection-end="392" vertical-scroll-proportion="-4.553571" vertical-offset="0" max-vertical-offset="4620">
               <folding />
             </state>
           </provider>
@@ -129,22 +138,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/static/css/vendor/su-identity.css" />
-        <option value="$PROJECT_DIR$/templates/theme-head-extra.html" />
         <option value="$PROJECT_DIR$/templates/theme-google-analytics.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_email.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/maintenance/index.html" />
-        <option value="$PROJECT_DIR$/templates/theme-header.html" />
-        <option value="$PROJECT_DIR$/templates/theme-footer.html" />
-        <option value="$PROJECT_DIR$/static/sass/_seneca.scss" />
         <option value="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" />
+        <option value="$PROJECT_DIR$/static/css/vendor/su-identity.css" />
+        <option value="$PROJECT_DIR$/templates/theme-footer.html" />
+        <option value="$PROJECT_DIR$/templates/theme-head-extra.html" />
+        <option value="$PROJECT_DIR$/templates/theme-header.html" />
+        <option value="$PROJECT_DIR$/static/sass/_seneca.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1746" />
-    <option name="y" value="61" />
+    <option name="y" value="71" />
     <option name="width" value="1613" />
     <option name="height" value="997" />
   </component>
@@ -174,7 +183,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -375,6 +383,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -548,12 +557,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1746" y="61" width="1613" height="997" extended-state="0" />
+    <frame x="1746" y="71" width="1613" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21323997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21578613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -589,6 +598,72 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/theme-dashboard-research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="15" selection-start="4867" selection-end="4867" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="2220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/courseware/theme-info_research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/courseware/theme-course_about_research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/sass/_seneca.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="67" selection-start="5361" selection-end="5361" vertical-scroll-proportion="0.0" vertical-offset="2360" max-vertical-offset="3195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="7" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.0" vertical-offset="3206" max-vertical-offset="4065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
@@ -599,7 +674,10 @@
     <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -674,7 +752,10 @@
     <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -764,40 +845,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/maintenance/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="109" selection-start="5185" selection-end="5185" vertical-scroll-proportion="-61.25" vertical-offset="0" max-vertical-offset="1770" />
+        <state line="79" column="32" selection-start="4013" selection-end="4024" vertical-scroll-proportion="0.62663186" vertical-offset="705" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="10" selection-start="4350" selection-end="4350" vertical-scroll-proportion="0.42374855" vertical-offset="3206" max-vertical-offset="4065">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="16" selection-start="1038" selection-end="1044" vertical-scroll-proportion="0.0" vertical-offset="1755" max-vertical-offset="4620" />
+        <state line="17" column="33" selection-start="392" selection-end="392" vertical-scroll-proportion="-4.553571" vertical-offset="0" max-vertical-offset="4620">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-register-research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="60" selection-start="403" selection-end="403" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="750" />
+        <state line="11" column="20" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-head-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="50" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555" />
+        <state line="3" column="72" selection-start="137" selection-end="137" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="555">
+          <folding>
+            <marker date="1407260358364" expanded="true" signature="444:667" placeholder="..." />
+            <marker date="1407260358364" expanded="true" signature="480:654" placeholder="{...}" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
+        <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-          <folding />
+        <state line="42" column="19" selection-start="2118" selection-end="2118" vertical-scroll-proportion="-22.125" vertical-offset="99" max-vertical-offset="945">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -810,14 +921,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="315">
+        <state line="1" column="40" selection-start="102" selection-end="102" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="315">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="15" selection-start="4867" selection-end="4867" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="2220">
+        <state line="131" column="10" selection-start="4878" selection-end="4879" vertical-scroll-proportion="-24.625" vertical-offset="1374" max-vertical-offset="2220">
           <folding />
         </state>
       </provider>
@@ -836,23 +947,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/sass/_seneca.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="67" selection-start="5361" selection-end="5361" vertical-scroll-proportion="-10.612245" vertical-offset="2360" max-vertical-offset="3195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="7" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.54598373" vertical-offset="3206" max-vertical-offset="4065">
+        <state line="192" column="50" selection-start="5320" selection-end="5320" vertical-scroll-proportion="0.6111111" vertical-offset="2385" max-vertical-offset="3195">
           <folding />
         </state>
       </provider>
