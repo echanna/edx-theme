@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/sass/_seneca.scss" afterPath="$PROJECT_DIR$/static/sass/_seneca.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maintenance/index.html" afterPath="$PROJECT_DIR$/maintenance/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity.css" afterPath="$PROJECT_DIR$/static/css/vendor/su-identity.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" afterPath="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-footer.html" afterPath="$PROJECT_DIR$/templates/theme-footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-head-extra.html" afterPath="$PROJECT_DIR$/templates/theme-head-extra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-header.html" afterPath="$PROJECT_DIR$/templates/theme-header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="" />
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
