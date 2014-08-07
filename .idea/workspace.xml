@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity.css" afterPath="$PROJECT_DIR$/static/css/vendor/sen-identity.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/css/vendor/su-identity_maintenance.css" afterPath="$PROJECT_DIR$/static/css/vendor/sen-identity_maintenance.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maintenance/index.html" afterPath="$PROJECT_DIR$/maintenance/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-header.html" afterPath="$PROJECT_DIR$/templates/theme-header.html" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,7 +40,7 @@
       <file leaf-file-name="theme-header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="750">
+            <state line="20" column="9" selection-start="827" selection-end="827" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="795">
               <folding />
             </state>
           </provider>
@@ -87,7 +85,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/maintenance/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="60" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11749347" vertical-offset="0" max-vertical-offset="1770">
+            <state line="6" column="60" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11780105" vertical-offset="0" max-vertical-offset="1770">
               <folding />
             </state>
           </provider>
@@ -140,15 +138,15 @@
         <option value="$PROJECT_DIR$/static/css/vendor/su-identity.css" />
         <option value="$PROJECT_DIR$/templates/theme-footer.html" />
         <option value="$PROJECT_DIR$/templates/theme-head-extra.html" />
-        <option value="$PROJECT_DIR$/templates/theme-header.html" />
         <option value="$PROJECT_DIR$/static/sass/_seneca.scss" />
         <option value="$PROJECT_DIR$/maintenance/index.html" />
+        <option value="$PROJECT_DIR$/templates/theme-header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1746" />
-    <option name="y" value="71" />
+    <option name="y" value="72" />
     <option name="width" value="1613" />
     <option name="height" value="997" />
   </component>
@@ -552,7 +550,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1746" y="71" width="1613" height="997" extended-state="0" />
+    <frame x="1746" y="72" width="1613" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -859,20 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/theme-register-research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="333" selection-end="333" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-head-extra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="72" selection-start="137" selection-end="137" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="555">
@@ -942,9 +926,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/theme-register-research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="9" selection-start="827" selection-end="827" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/maintenance/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="60" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11749347" vertical-offset="0" max-vertical-offset="1770">
+        <state line="6" column="60" selection-start="199" selection-end="199" vertical-scroll-proportion="0.11780105" vertical-offset="0" max-vertical-offset="1770">
           <folding />
         </state>
       </provider>
