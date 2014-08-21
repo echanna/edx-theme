@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/courseware/theme-course_about_research.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/courseware/theme-info_research.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/theme-dashboard-research.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/theme-register-research.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" afterPath="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/registration/password_reset_email.html" afterPath="$PROJECT_DIR$/templates/registration/password_reset_email.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-footer.html" afterPath="$PROJECT_DIR$/templates/theme-footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-header.html" afterPath="$PROJECT_DIR$/templates/theme-header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/circuit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/dish.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/memchu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/quad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/seal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stanford-2-logo-desat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stanford-2-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stanford-S-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stanford-pano.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/stanford-video-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/images/tree-light.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/static_templates/theme-tos.html" afterPath="$PROJECT_DIR$/templates/static_templates/theme-tos.html" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +39,7 @@
       <file leaf-file-name="theme-head-extra.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/theme-head-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
+            <state line="31" column="0" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-5.8125" vertical-offset="0" max-vertical-offset="555">
               <folding>
                 <marker date="1407260358364" expanded="true" signature="444:667" placeholder="..." />
                 <marker date="1407260358364" expanded="true" signature="480:654" placeholder="{...}" />
@@ -48,16 +51,16 @@
       <file leaf-file-name="theme-header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="720">
+            <state line="8" column="27" selection-start="233" selection-end="235" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme-google-analytics.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
+      <file leaf-file-name="password_reset_confirm.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="126" column="8" selection-start="4746" selection-end="4746" vertical-scroll-proportion="-8.5625" vertical-offset="1205" max-vertical-offset="2025">
               <folding />
             </state>
           </provider>
@@ -66,7 +69,7 @@
       <file leaf-file-name="theme-honor.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-honor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="0" selection-start="51213" selection-end="51213" vertical-scroll-proportion="-202.5" vertical-offset="0" max-vertical-offset="4950">
+            <state line="10" column="36" selection-start="300" selection-end="303" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="4950">
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -98,7 +101,7 @@
       <file leaf-file-name="theme-faq.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="0" selection-start="51213" selection-end="51213" vertical-scroll-proportion="-181.66667" vertical-offset="500" max-vertical-offset="4950">
+            <state line="10" column="36" selection-start="300" selection-end="303" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="4950">
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -127,20 +130,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme-tos.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-tos.html">
+      <file leaf-file-name="theme-embargo.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-embargo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="496" selection-end="496" vertical-scroll-proportion="0.23722628" vertical-offset="0" max-vertical-offset="4950">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_seneca.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/sass/_seneca.scss">
+      <file leaf-file-name="theme-about.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="50" selection-start="5320" selection-end="5320" vertical-scroll-proportion="0.0" vertical-offset="2385" max-vertical-offset="3195">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.7" vertical-offset="56" max-vertical-offset="3195">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme-tos.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-tos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="36" selection-start="407" selection-end="407" vertical-scroll-proportion="0.2356021" vertical-offset="0" max-vertical-offset="4950">
+              <folding>
+                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,15 +165,6 @@
         <entry file="file://$PROJECT_DIR$/maintenance/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="60" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1770">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_custom.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -197,6 +204,7 @@
         <option value="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/templates/static_templates/theme-honor.html" />
         <option value="$PROJECT_DIR$/templates/static_templates/theme-faq.html" />
+        <option value="$PROJECT_DIR$/templates/static_templates/theme-tos.html" />
       </list>
     </option>
   </component>
@@ -652,8 +660,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -702,8 +710,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -757,8 +765,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="78" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -789,11 +797,6 @@
         <state line="240" column="18" selection-start="4436" selection-end="4436" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4065" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/circuit.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/locale/es_419/LC_MESSAGES/django.po">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1621" column="131" selection-start="127537" selection-end="127545" vertical-scroll-proportion="-11.160714" vertical-offset="23690" max-vertical-offset="24480" />
@@ -807,16 +810,6 @@
     <entry file="file://$PROJECT_DIR$/static/css/vendor/ie8.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="551" max-vertical-offset="1410" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-embargo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/sass/_custom.scss">
@@ -854,14 +847,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="720">
+        <state line="8" column="27" selection-start="233" selection-end="235" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-head-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555">
+        <state line="31" column="0" selection-start="1303" selection-end="1303" vertical-scroll-proportion="-5.8125" vertical-offset="0" max-vertical-offset="555">
           <folding>
             <marker date="1407260358364" expanded="true" signature="444:667" placeholder="..." />
             <marker date="1407260358364" expanded="true" signature="480:654" placeholder="{...}" />
@@ -871,38 +864,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-google-analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="9" column="9" selection-start="408" selection-end="408" vertical-scroll-proportion="-1.6875" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="10" selection-start="659" selection-end="659" vertical-scroll-proportion="0.2919708" vertical-offset="0" max-vertical-offset="822">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#footer#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="37" selection-start="99" selection-end="99" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="8" selection-start="4746" selection-end="4746" vertical-scroll-proportion="-78.75" vertical-offset="0" max-vertical-offset="2025">
+        <state line="16" column="10" selection-start="659" selection-end="659" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-honor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="0" selection-start="51213" selection-end="51213" vertical-scroll-proportion="-202.5" vertical-offset="0" max-vertical-offset="4950">
+        <state line="10" column="36" selection-start="300" selection-end="303" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="4950">
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -932,7 +908,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="0" selection-start="51213" selection-end="51213" vertical-scroll-proportion="-181.66667" vertical-offset="500" max-vertical-offset="4950">
+        <state line="10" column="36" selection-start="300" selection-end="303" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="4950">
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -960,10 +936,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-embargo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.7" vertical-offset="56" max-vertical-offset="3195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="37" selection-start="99" selection-end="99" vertical-scroll-proportion="0.019633507" vertical-offset="0" max-vertical-offset="764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/password_reset_confirm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="8" selection-start="4746" selection-end="4746" vertical-scroll-proportion="-8.5625" vertical-offset="1205" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-tos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="2" selection-start="496" selection-end="496" vertical-scroll-proportion="0.23722628" vertical-offset="0" max-vertical-offset="4950">
-          <folding />
+        <state line="12" column="36" selection-start="407" selection-end="407" vertical-scroll-proportion="0.2356021" vertical-offset="0" max-vertical-offset="4950">
+          <folding>
+            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
