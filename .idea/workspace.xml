@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/static_templates/theme-faq.html" afterPath="$PROJECT_DIR$/templates/static_templates/theme-faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/static_templates/theme-honor.html" afterPath="$PROJECT_DIR$/templates/static_templates/theme-honor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/static_templates/theme-tos.html" afterPath="$PROJECT_DIR$/templates/static_templates/theme-tos.html" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,7 +50,7 @@
       <file leaf-file-name="theme-honor.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-honor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="52" selection-start="248" selection-end="248" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="435">
+            <state line="18" column="167" selection-start="698" selection-end="698" vertical-scroll-proportion="-3.375" vertical-offset="0" max-vertical-offset="435">
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -64,7 +62,7 @@
       <file leaf-file-name="theme-faq.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-faq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="96" selection-start="734" selection-end="734" vertical-scroll-proportion="0.44401544" vertical-offset="0" max-vertical-offset="777">
+            <state line="23" column="156" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4515707" vertical-offset="0" max-vertical-offset="764">
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -103,7 +101,7 @@
       <file leaf-file-name="theme-tos.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-tos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="10" selection-start="699" selection-end="699" vertical-scroll-proportion="-4.125" vertical-offset="0" max-vertical-offset="435">
+            <state line="23" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="-4.3125" vertical-offset="0" max-vertical-offset="435">
               <folding>
                 <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -154,8 +152,8 @@
         <option value="$PROJECT_DIR$/templates/theme-footer.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/templates/static_templates/theme-tos.html" />
-        <option value="$PROJECT_DIR$/templates/static_templates/theme-honor.html" />
         <option value="$PROJECT_DIR$/templates/static_templates/theme-faq.html" />
+        <option value="$PROJECT_DIR$/templates/static_templates/theme-honor.html" />
       </list>
     </option>
   </component>
@@ -887,7 +885,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-tos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="699" selection-end="699" vertical-scroll-proportion="-4.125" vertical-offset="0" max-vertical-offset="435">
+        <state line="23" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="-4.3125" vertical-offset="0" max-vertical-offset="435">
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -897,7 +895,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-honor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="52" selection-start="248" selection-end="248" vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="435">
+        <state line="18" column="167" selection-start="698" selection-end="698" vertical-scroll-proportion="-3.375" vertical-offset="0" max-vertical-offset="435">
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
@@ -907,7 +905,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/static_templates/theme-faq.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="96" selection-start="734" selection-end="734" vertical-scroll-proportion="0.44401544" vertical-offset="0" max-vertical-offset="777">
+        <state line="23" column="156" selection-start="794" selection-end="794" vertical-scroll-proportion="0.4515707" vertical-offset="0" max-vertical-offset="764">
           <folding>
             <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#0;n#section#0;n#!!top" expanded="true" />
