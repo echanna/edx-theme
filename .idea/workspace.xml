@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-footer.html" afterPath="$PROJECT_DIR$/templates/theme-footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +55,7 @@
       <file leaf-file-name="theme-footer.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="7" selection-start="2249" selection-end="2249" vertical-scroll-proportion="0.8722628" vertical-offset="18" max-vertical-offset="840">
+            <state line="45" column="89" selection-start="2141" selection-end="2144" vertical-scroll-proportion="0.8012195" vertical-offset="18" max-vertical-offset="840">
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
               </folding>
@@ -402,7 +401,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fullstack-repoV2/edx-platform" />
     <property name="options.lastSelected" value="reference.settings.deploy.options" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -940,7 +939,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="7" selection-start="2249" selection-end="2249" vertical-scroll-proportion="0.8722628" vertical-offset="18" max-vertical-offset="840">
+        <state line="45" column="89" selection-start="2141" selection-end="2144" vertical-scroll-proportion="0.8012195" vertical-offset="18" max-vertical-offset="840">
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
