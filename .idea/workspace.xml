@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sass/_default.scss" afterPath="$PROJECT_DIR$/static/sass/_experiment.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sass/_experiment.scss" afterPath="$PROJECT_DIR$/static/sass/stanford.scss" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,14 +37,14 @@
       <file leaf-file-name="theme-header.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="9" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14035088" vertical-offset="0" max-vertical-offset="855">
+            <state line="10" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.1754386" vertical-offset="0" max-vertical-offset="855">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_experiment.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/sass/_experiment.scss">
+      <file leaf-file-name="stanford.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/sass/stanford.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state line="37" column="18" selection-start="1272" selection-end="1272" vertical-scroll-proportion="-11.32653" vertical-offset="0" max-vertical-offset="3195">
               <folding />
@@ -600,7 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/sass/_experiment.scss">
+    <entry file="file://$PROJECT_DIR$/static/sass/stanford.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="18" selection-start="1272" selection-end="1272" vertical-scroll-proportion="-11.32653" vertical-offset="0" max-vertical-offset="3195">
           <folding />
@@ -609,7 +609,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/theme-header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="344" selection-end="344" vertical-scroll-proportion="0.14035088" vertical-offset="0" max-vertical-offset="855">
+        <state line="10" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.1754386" vertical-offset="0" max-vertical-offset="855">
           <folding />
         </state>
       </provider>
