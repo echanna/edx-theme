@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/static/sass/stanford.scss" afterPath="$PROJECT_DIR$/static/sass/_seneca.scss" />
-    </list>
+    <list default="true" id="be240ff1-390e-49b9-8a3d-60d9995daa65" name="Default" comment="" />
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
